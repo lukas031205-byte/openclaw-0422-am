@@ -1,0 +1,16 @@
+{
+  "decision": "CONFIRM",
+  "r_pearson": 0.752757195756042,
+  "p_pearson": 2.885871462187123e-10,
+  "r_spearman": 0.746266506602641,
+  "p_spearman": 4.956988286477395e-10,
+  "r_l2ia_ab": 0.2616097030244403,
+  "r_l2ib_ab": 0.5881566455876005,
+  "n_pairs": 50,
+  "dino_sum_mean": 94.23917137145996,
+  "dino_sum_std": 9.184275434227885,
+  "l2_ab_mean": 60.674543380737305,
+  "l2_ab_std": 3.7750984403977097,
+  "runtime_min": 6.3,
+  "model": "DINOv2 ViT-S/14 (CPU-only, CLIP unavailable)"
+}
